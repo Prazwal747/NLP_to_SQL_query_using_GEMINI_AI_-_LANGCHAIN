@@ -1,0 +1,9 @@
+	??imports:
+
+ pip install langchain_openai langchain_community langchain pymysql chromadb -q
+ pip install fastapi uvicorn
+ pip install redis
+ pip install google-generativeai
+ pip install langchain_openai langchain_community langchain pymysql chromadb
+ pip install sqlalchemy
+ pip install 
